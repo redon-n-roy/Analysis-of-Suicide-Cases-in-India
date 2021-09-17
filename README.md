@@ -14,12 +14,12 @@ The aim of our project was to analyze the data of suicide cases in India during 
 
 ## Technologies Used
 
-* Python
-* PySpark
-* Spark
-* SparkSQL
-* Hive
-* HDFS
+* Python 2.7
+* PySpark 2.3.2
+* Spark 2.3.2
+* SparkSQL 2.3.2
+* Hive 2.1.0
+* Hadoop 2.7.3
 * Git/GitHub  
 
 ## Dataset Definition
@@ -36,7 +36,7 @@ The aim of our project was to analyze the data of suicide cases in India during 
    
 * Make sure that the virtualization is enabled for your system from the BIOS.
 * Install VMware Workshation Player.
-* Download and insatll Hortonworks HDP 2.6.5.
+* Download and install Hortonworks HDP 2.6.5.
 * Get everything up and runninng.
 * Connect to the system either through the webshell/OpenSSH/PuTTY.
 * Upload all the required files into the local system or clone this repo.
