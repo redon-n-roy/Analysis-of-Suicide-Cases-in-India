@@ -4,13 +4,6 @@
 
 The aim of our project was to analyze the data of suicide cases in India during the period 2001-2012 to findout suicide rates and different reasons due to which people have committed suicide in India. It is very important to understand the reasons to commit suicide and Data Science helps in this regard. Here we analyzed the data by taking various parameters available within the dataset.
 
-## Problem Statement
-
-* What is the percentage of change in suicide cases?
-* Which is the age group having the most suicide cases?
-* What is the professional profile of the people who committed suicides?
-* Which state had the most suicide cases?
-* What are the treads in various causes of suicide?
 
 ## Technologies Used
 
@@ -21,6 +14,16 @@ The aim of our project was to analyze the data of suicide cases in India during 
 * Hive 2.1.0
 * Hadoop 2.7.3
 * Git/GitHub  
+
+## Features
+
+List of features ready and TODOs for future development
+
+* What is the percentage of change in suicide cases?
+* Which is the age group having the most suicide cases?
+* What is the professional profile of the people who committed suicides?
+* Which state had the most suicide cases?
+* What are the treads in various causes of suicide?
 
 ## Dataset Definition
 
@@ -33,6 +36,8 @@ The aim of our project was to analyze the data of suicide cases in India during 
 * case_count - Show the total cases in that particular category.
 
 ## Getting Started
+
+> All the operations below are for Windows OS
    
 * Make sure that the virtualization is enabled for your system from the BIOS.
 * Install VMware Workshation Player.
@@ -40,6 +45,13 @@ The aim of our project was to analyze the data of suicide cases in India during 
 * Get everything up and runninng.
 * Connect to the system either through the webshell/OpenSSH/PuTTY.
 * Upload all the required files into the local system or clone this repo.
+
+```
+git clone https://github.com/redon-n-roy/Analysis-of-Suicide-Cases-in-India.git
+```
+
+
+> For linux, install all the dependencies and then run the project from the command-line.
 
 ## Usage
 
