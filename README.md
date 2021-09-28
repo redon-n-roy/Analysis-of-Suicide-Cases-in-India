@@ -62,8 +62,8 @@ Once the data is loaded into hive, use the `spark-submit` command to run the pyt
 # Contributors
 
 * [Meenal Shree](https://github.com/meenal-shree)
-* Neha Kumari
-* Nirosha M
+* [Neha Kumari](https://github.com/nkneha)
+* [Nirosha M](https://github.com/Niroshamurugan)
 
 # License
 
